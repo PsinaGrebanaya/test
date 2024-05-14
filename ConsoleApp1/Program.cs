@@ -36,7 +36,7 @@ namespace ConsoleApp1
                     else odd++;
                     diapozone1++;
                 }
-                Console.WriteLine("четных чисел " + even + ", нечетных " + odd);
+                Console.WriteLine("чётных чисел " + even + ", нечётных " + odd);
                 Console.ReadLine();
             }
 
